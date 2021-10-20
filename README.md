@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thedo32
-- 👀 I’m interested in Web GIS Programming and Laravel Programming
-- 🌱 I’m currently learning Web GIS Programming and Laravel Programming
+- 👀 I’m interested in Web GIS Programming and PHP Framework - Laravel Programming
+- 🌱 I’m currently learning Web GIS Programming and PHP Framework - Laravel Laravel Programming
 - 💞️ I’m looking to collaborate on Web GIS Programming and Laravel Programming
 - 📫 How to reach me - email: jeffriargon@hotmail.com
 
