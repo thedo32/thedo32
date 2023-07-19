@@ -16,5 +16,5 @@ jobs:
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: <thedo32/thedo32>
+          # REPOSITORY: <thedo32/thedo32>
          
