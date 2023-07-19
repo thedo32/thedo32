@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: thedo32/thedo32s@master
         with:
-          WAKATIME_API_KEY: ${{ waka_a2c9de4c-39b3-4bf6-b94c-d629e0749a8b }}
-          GH_TOKEN: ${{ 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 }}
+          WAKATIME_API_KEY: ${{ 'waka_a2c9de4c-39b3-4bf6-b94c-d629e0749a8b' }}
+          GH_TOKEN: ${{ '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' }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
