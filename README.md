@@ -7,6 +7,10 @@
 
 I'm waiting for your collaboration <img src="https://github.com/thedo32/thedo32/assets/37764718/7b2d4ea5-fa4c-43b5-aa09-2c33f11cba1d" width="50" height="50">
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!---!
 
 thedo32/thedo32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
