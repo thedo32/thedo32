@@ -13,6 +13,6 @@ jobs:
       - uses: thedo32/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ 'waka_78a37f2a-9c94-4b8e-b2f3-f27a08f23e3c' }}
-          GH_TOKEN: ${{ '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' }}
+          GH_TOKEN: ${{ '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' }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
