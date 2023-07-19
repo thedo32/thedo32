@@ -8,7 +8,7 @@
 - 📫 How to reach me - email: jeffriargon@hotmail.com or jeffriargon@gmail.com, instagram: @thedo32
 
    
-<img src = "https://github.com/thedo32/thedo32/assets/37764718/0beb623f-e9ea-4015-9f99-1558181253bd" width="120" height="120">I'm waiting for your collaboration <img src="https://github.com/thedo32/thedo32/assets/37764718/7b2d4ea5-fa4c-43b5-aa09-2c33f11cba1d" width="50" height="50">
+<img src = "https://github.com/thedo32/thedo32/assets/37764718/0beb623f-e9ea-4015-9f99-1558181253bd" width="120" height="120">I'm waiting for your collaboration <img src="https://github.com/thedo32/thedo32/assets/37764718/7b2d4ea5-fa4c-43b5-aa09-2c33f11cba1d" width="60" height="60">
 
 
 
