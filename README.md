@@ -6,7 +6,7 @@ i am a lowercase gang member <img src = "https://github.com/thedo32/thedo32/asse
 - 👀 my special interest is spatial/maps programming on web and mobile (google maps api, mapbox api, osm api/osmdroid) 
 - 🌱 i am currently learning machine learning on qgis, android studio with kotlin, python, react native,  mongodb, and restful api on nodejs and laravel
 - 💞️ i am looking to collaborate on  fullStack programming, react programming (front end), nodejs and laravel programming (back end), gis/spatial programming, mobile application  
-- 📫 how to reach me - email: jeffriargon@hotmail.com or jeffriargon@gmail.com,  <a href="https://www.linkedin.com/in/jeffriargon/">linkedin</a>, <a href="https://www.instagram.com/thedo32/">instagram</a>
+- 📫 how to reach me - email: jeffriargon@hotmail.com or jeffriargon@gmail.com,  <a href="https://www.linkedin.com/in/jeffriargon/" target="_blank">linkedin</a>, <a href="https://www.instagram.com/thedo32/" target="_blank">instagram</a>
 
    
 <img src = "https://github.com/thedo32/thedo32/assets/37764718/0beb623f-e9ea-4015-9f99-1558181253bd" width="120" height="120">i am waiting for your collaboration <img src="https://github.com/thedo32/thedo32/assets/37764718/7b2d4ea5-fa4c-43b5-aa09-2c33f11cba1d" width="60" height="60">
