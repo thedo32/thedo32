@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: thedo32/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ 'waka_600d1738-796a-4389-9aef-b80477011127' }}
-          GH_TOKEN: ${{ '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' }}
+          WAKATIME_API_KEY: ${{ 'waka_eb3a8824-1a16-45a9-a4f6-1542af4243e1' }}
+          GH_TOKEN: ${{ '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' }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
