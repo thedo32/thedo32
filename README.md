@@ -5,8 +5,7 @@
 - 💞️ I’m looking to collaborate on  FullStack Programming, React Programming (Front End), NodeJS, Laravel Programming (Back End), GIS/Spatial Programming, Mobile Application  
 - 📫 How to reach me - email: jeffriargon@hotmail.com or jeffriargon@gmail.com, instagram: @thedo32
 
-  I'm waiting for your connection
-  ![hand](https://github.com/thedo32/thedo32/assets/37764718/7b2d4ea5-fa4c-43b5-aa09-2c33f11cba1d)  
+I'm waiting for your connection <img src="https://github.com/thedo32/thedo32/assets/37764718/7b2d4ea5-fa4c-43b5-aa09-2c33f11cba1d" width="50" height="50">
 
 <!---!
 
