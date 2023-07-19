@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: '45 23 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -13,6 +13,6 @@ jobs:
       - uses: thedo32/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ 'waka_78a37f2a-9c94-4b8e-b2f3-f27a08f23e3c' }}
-          GH_TOKEN: ${{ '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' }}
+          GH_TOKEN: ${{ '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' }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
