@@ -1,4 +1,4 @@
-👋 hi, i’m jeffri argon (username: @thedo32) <p>
+👋 hi, i am jeffri argon (username: @thedo32) <p>
 
 i am a lowercase gang member <img src = "https://github.com/thedo32/thedo32/assets/37764718/aabf91a9-9485-42a3-8b65-1f0ef3392d6b" width="80" height="80">
 
