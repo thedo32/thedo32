@@ -35,7 +35,7 @@ jobs:
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.org
-          AUTHOR_NAME: Athul
-          AUTHOR_EMAIL: athul@example.org
+          AUTHOR_NAME: Jeff
+          AUTHOR_EMAIL: jeff@example.org
           # you can populate email-id with secretes instead
          
