@@ -16,7 +16,7 @@ i am a lowercase gang member <img src = "https://github.com/thedo32/thedo32/asse
 
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+📊 **this week i spent my time on** 
 
 ```text
 💬 Programming Languages: 
